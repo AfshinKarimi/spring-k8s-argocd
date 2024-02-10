@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/afshin28/spring-k8s-argocd.git
+    repoURL: https://github.com/AfshinKarimi/spring-k8s-argocd.git
     targetRevision: HEAD
     path: k8s
   destination:
